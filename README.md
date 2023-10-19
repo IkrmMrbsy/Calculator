@@ -14,7 +14,7 @@ The Mini Calculator application has several key features:
 
 ## How to Use
 
-1. Open the `Calculator.html` file in your web browser.
+1. Open the `index.html` file in your web browser.
 
 2. You will see the calculator interface with a display screen, numeric buttons, operation buttons, and more.
 
